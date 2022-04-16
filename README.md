@@ -2,7 +2,7 @@
   <a href="https://accelerateshares.com/team/management/">
   <img align="center" src="hgerami.jpg" />
   </a>
-
+</div>
 <h3>
 <p>
 I am an expert in data analytics, with extensive professional experience in Oil & Gas industry. 
