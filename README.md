@@ -5,7 +5,7 @@ I have applied and deployed AI techniques and machine learning models in various
 </p>
 <p> I currently work as a Data Engineer/Full Stack Developer for 'Accelerate Financial Technologies' , and responsible for building up and maintaining SQL databases, also designing websites to communicate the databases and visualize the datasets. To accomplish this, I routinely write codes with MySQL, Python, VBA, PHP, JavaScript and D3.  
   <a href="https://accelerateshares.com/team/management/">
-  <img align="center" src="hgerani.jpg" />
+  <img align="center" src="hgerami.jpg" />
   
   </a>
 </h3>
