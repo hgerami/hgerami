@@ -1,12 +1,6 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>  
+
   
-  <div class="green" align="center">
+  <div class="Intro" align="center">
   <a href="https://accelerateshares.com/team/management/">
     <kbd><img align="center" src="hgerami.jpg" /></kbd>
   </a>
