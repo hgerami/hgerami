@@ -1,6 +1,6 @@
   <div align="center">
   <a href="https://accelerateshares.com/team/management/">
-  <img align="center" src="hgerami.jpg" />
+    <kbd><img align="center" src="hgerami.jpg" /></kbd>
   </a>
 </div>
 <h3>
