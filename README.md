@@ -1,3 +1,4 @@
+  <div style="color: red; font-size: 48; font-family: 'Verdana'; float: right; border: 1px dotted green" class="Intro">
   <a href="https://accelerateshares.com/team/management/">
   <img align="center" src="hgerami.jpg" />
   </a>
