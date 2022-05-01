@@ -7,7 +7,7 @@
 </div>
 <h3>
 <p>
-After extensive professional experience in Oil & Gas industry, I have transitioned into Data Science. I have contiributed to various Data Science and Machine Learning projects from energy industry, finance and supply chain domains. Please have a look on couple of of the codes/projects that I shared here:<br>
+After extensive professional experience in Oil & Gas industry, I have transitioned into Data Science. I have contiributed to various Data Science and Machine Learning projects from energy industry, finance and supply chain domains. Please have a look on couple of the codes/projects that I shared here:<br>
   <center><a href="../../../DataAnalytics/blob/master/README.md">Transition into Data Science </a></center>
 </p>
 <p> I currently work as a Data Engineer/Full Stack Developer for 'Accelerate Financial Technologies' , and I am responsible for building up and maintaining SQL databases, also designing websites to communicate with databases and visualize datasets. To accomplish this, I routinely write codes with MySQL, Python, VBA, PHP, JavaScript and D3.
