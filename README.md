@@ -11,7 +11,7 @@ After extensive professional experience in Oil & Gas industry, I have transition
   <ul>
   <li><a href="../../../DataAnalytics/blob/master/README.md">My journey in Data Science </a></li>
   <li><center><a href="../../../EverydayPython/blob/master/README.md">Python for Everyday </a></li>
-   <li><center>Interactive Dashboards and Data Visualization with JavaScript and d3 </li>
+   <li><center><a href="../../../DataViz_with_JavaScript_and_d3/blob/master/README.md">Interactive Dashboards and Data Visualization with JavaScript and d3 </a> </li>
   </ul>
 </p>
 <p> I currently work as a Data Engineer/Full Stack Developer for 'Accelerate Financial Technologies' , and I am responsible for building up and maintaining SQL databases, also designing websites to communicate with databases and visualize datasets. To accomplish this, I routinely write codes with MySQL, Python, VBA, PHP, JavaScript and D3.
