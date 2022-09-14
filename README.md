@@ -9,7 +9,7 @@
 <p>
 After extensive professional experience in Oil & Gas industry, I have transitioned into Data Science. I have contiributed to various Data Science and Machine Learning projects from energy industry, finance and supply chain domains. Please have a look on couple of the codes/projects that I shared here:<br>
   <ul>
-  <li><a href="../../../DataAnalytics/blob/master/README.md">My journey in Data Science </a></li>
+  <li><a href="../../../DataAnalytics/blob/master/README.md">Data Analytics & Machine Learning </a></li>
   <li><center><a href="../../../EverydayPython/blob/master/README.md">Python for Everyday </a></li>
    <li><center><a href="../../../DataViz_with_JavaScript_and_d3/blob/master/README.md">Interactive Dashboards and Data Visualization with JavaScript and d3 </a> </li>
    <li><center> Web Development  </a></li>
