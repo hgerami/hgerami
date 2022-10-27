@@ -1,10 +1,5 @@
 
-  
-  <div class="Intro" align="center">
-  <a href="https://accelerateshares.com/team/management/">
-    <kbd><img align="center" src="hgerami.jpg" /></kbd>
-  </a>
-</div>
+
 <h3>
 <p>
 After extensive professional experience in Oil & Gas industry, I have transitioned into Data Science. I have contiributed to various Data Science and Machine Learning projects from energy industry, finance and supply chain domains. Please have a look on couple of the codes/projects that I shared here:<br>
