@@ -10,7 +10,7 @@ After extensive professional experience in Oil & Gas industry, I have transition
    <li><center> Web Development  </a></li>
   </ul>
 </p>
-<p> Throughout my work and under different roles and responsibilities, I contributed to building up and maintaining SQL databases, designed insightful and interactive dashboards, established ML models for  prediction and prescription purposes, and automation of various manual processes. To am comfortable writing codes with MySQL, Python, VBA, PHP, JavaScript and D3.
+<p> Throughout my work and under different roles and responsibilities, I contributed to building up and maintaining SQL databases, designed insightful and interactive dashboards, established ML models for  prediction and prescription purposes, and automation of various manual processes. I am comfortable writing codes with MySQL, Python, VBA, PHP, JavaScript and D3.
 <p> I hold BSc in Mining Engineering, and two Master of Science Degrees in Geophysics and Data Analytics. Please feel free to reaching out to me via my LinkedIn: <p>
   <a href="https://www.linkedin.com/in/jeremy-homayoun-gerami-36057930/ ">
   <img align="center" src="LinkedIn.jpg" />
